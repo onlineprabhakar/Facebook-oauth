@@ -17,8 +17,8 @@ $fb = new Facebook();
 
 $config = array(
     'instance' => array(
-                    'appId'=>'319587084799135',
-                    'secret'=>'96f52058655e3c8fb8e2c6e9c3b635b7',
+                    'appId'=>'Application Id',
+                    'secret'=>'Secret Code',
                     'cookie' => true
                     ),
     'login' => array(
