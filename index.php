@@ -37,7 +37,7 @@ $user_id = $fb->login($config);
 $user_profile = $fb->getFBProfile();
 
 
-echo '<pre>';
-print_r($user_profile);
+//echo '<pre>';
+//print_r($user_profile);
 
 ?>
